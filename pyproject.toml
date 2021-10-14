@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pymonadT"
+version = "0.1.0"
+description = "Monad[-Transformer]s and Do-Notation in python"
+authors = ["Tim Fischer <me@timfi.dev>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
