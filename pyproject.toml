@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pymonadT"
+name = "pymonadsT"
 version = "0.1.0"
 description = "Monad[-Transformer]s and Do-Notation in python"
 authors = ["Tim Fischer <me@timfi.dev>"]
